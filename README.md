@@ -1,1 +1,3 @@
-# beCycled-android-tracker
+# 🚲 Android beCycled трекер 📱
+
+Программный GPS трекер для Android сматрфонов.
